@@ -1,0 +1,96 @@
+body{
+    margin: 0;
+    text-align: center;
+    
+    
+}
+#parent-holder{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+#first-holder{
+    background-color: rgb(250, 246, 241);
+    
+    
+}
+#list{
+    text-align: center;
+}
+    
+div #name{
+    margin-top: 1px;
+
+}
+#exploration{
+    margin-top: 0%;
+}
+#second-holder{
+    background-color: rgb(216, 211, 205);
+    margin: -19px;
+    
+}img{
+    width: 450px;
+    border-radius: 3px;
+    border: 1px solid black;
+}
+span{
+   text-align: left;
+   font-size: larger;
+   display: block;
+   margin-top: 0;
+   margin-bottom: 0;
+}
+ul li{
+    
+    text-align: center;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+} 
+.brief-explanation{
+    width: 400px;
+    align-items: center;
+    font-size: 12px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    font-style: italic;
+    color: rgb(151, 132, 104);
+}   
+#third-holder{
+    background-color: rgb(245, 240, 238);
+    
+}
+h3{
+    margin-top: +20px;
+}
+.achievement{
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.manmohan{
+    font-style: italic;
+    font-size: 12px;
+    color: rgb(133, 121, 123);
+}
+.extra{
+    width: 400px;
+    font-size: 14px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#footer-holder{
+    background-color: antiquewhite;
+    /*width: 700px;*/
+    margin-left: auto;
+    margin-right: auto;
+    mmargin: -10px;
+    
+}
+
