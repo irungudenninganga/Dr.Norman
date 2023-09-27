@@ -13,11 +13,12 @@ body{
 }
 #first-holder{
     background-color: rgb(250, 246, 241);
-    
+    display: inline;
     
 }
 #list{
-    text-align: center;
+    align-items: center;
+    
 }
     
 div #name{
@@ -38,8 +39,7 @@ div #name{
 }
 span{
    text-align: left;
-   font-size: larger;
-   display: block;
+   font-weight: bold;
    margin-top: 0;
    margin-bottom: 0;
 }
@@ -61,10 +61,12 @@ ul li{
     font-style: italic;
     color: rgb(151, 132, 104);
 }   
-#third-holder{
+#third-holder {
     background-color: rgb(245, 240, 238);
+    text-align: center;
     
 }
+
 h3{
     margin-top: +20px;
 }
@@ -90,7 +92,7 @@ h3{
     /*width: 700px;*/
     margin-left: auto;
     margin-right: auto;
-    mmargin: -10px;
+    margin: -14px;
     
 }
 
